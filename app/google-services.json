@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1067448724479",
+    "firebase_url": "https://object-detection-3becc.firebaseio.com",
+    "project_id": "object-detection-3becc",
+    "storage_bucket": "object-detection-3becc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1067448724479:android:ca640a41d84f41de1595ca",
+        "android_client_info": {
+          "package_name": "com.markoapps.objectdetection"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1067448724479-v7p9ml4nn39d883sn2msoveuilrtk63q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5aiNmiPe7Ha3S352YM6-Mz54ncjdfV0g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1067448724479-v7p9ml4nn39d883sn2msoveuilrtk63q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
